@@ -1,2 +1,2 @@
 Opa, esse é um repositório destinado ao projeto de programacao-A da UFS, estou num projeto com mais 2 amigos meus, tentando recriar um "paint" passo a passo, cada alteracao ou
-coisa do tipo será feita aqui, não sei quem está vendo mas caso esteja perdido, esse repositório foi feito para isso :D
+coisa do tipo será feita aqui, não sei quem está vendo mas caso esteja perdido, esse repositório foi feito para isso :p
